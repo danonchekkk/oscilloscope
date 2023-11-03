@@ -1,0 +1,24 @@
+﻿  LR3.cpp
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(64,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(70,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(72,129): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(72,100): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(72,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(72,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(80,45): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(81,45): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(82,37): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(83,37): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(84,45): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(85,45): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(89,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(92,44): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(93,44): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(94,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(95,36): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(96,44): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(97,44): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(112,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(262,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\LR3.cpp(267,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  LR3.vcxproj -> C:\Users\Asus\Desktop\плюсы\САПРЫ\LR3\Debug\LR3.exe
